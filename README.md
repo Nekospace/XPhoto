@@ -1,3 +1,3 @@
 # XPhoto
 
-building...
+Put posts into /data/post and run server.go

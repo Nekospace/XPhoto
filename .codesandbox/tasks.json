@@ -4,9 +4,9 @@
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "go run cmd/cli/server.go": {
-      "name": "go run cmd/cli/server.go",
-      "command": "go run cmd/cli/server.go",
+    "go run server.go": {
+      "name": "go run server.go",
+      "command": "go run server.go",
       "runAtStart": true
     }
   }
